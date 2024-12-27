@@ -1,11 +1,6 @@
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
 
-// Explicitly define collection name
-const MODEL_NAME = 'User';
-const COLLECTION_NAME = 'users';
-
-const userSchema = new Schema({
+const userSchema = new mongoose.Schema({
     username: {
         type: String,
         required: [true, 'Username is required'],
@@ -31,9 +26,7 @@ const userSchema = new Schema({
         default: Date.now
     }
 }, {
-    timestamps: true,
-    collection: COLLECTION_NAME
+    timestamps: true
 });
 
-// Check if model already exists to prevent duplicate model error
-module.exports = mongoose.models[MODEL_NAME] || mongoose.model(MODEL_NAME, userSchema);
+module.exports = mongoose.model('User', userSchema);
