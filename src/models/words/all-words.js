@@ -4,6 +4,7 @@ const wordSchema = new mongoose.Schema({
     id: String,
     word: String,
     pronunciation: String,
+    meaning: String,
     example: String,
     level: String
 });

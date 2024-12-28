@@ -1,4 +1,4 @@
-const Word = require('./model');
+const Word = require('../../models/words/all-words');
 
 const getRandomWord = async (req, res) => {
     try {
