@@ -1,7 +1,10 @@
 const mongoose = require('mongoose');
+const wordSchema = require('./all-words');
 
-const wordSchema = new mongoose.Schema({
-    
+const userWordSchema = new mongoose.Schema({
+    uid: String,
+    seenWords: [wordSchema],
+    savedWords: [wordSchema],
 });
 
-module.exports = mongoose.model('userWord', wordSchema, 'user_words');
+module.exports = mongoose.model('userWord', userWordSchema, 'user_words');

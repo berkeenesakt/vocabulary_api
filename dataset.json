@@ -1,0 +1,814 @@
+[
+  {
+    "word": "smile",
+    "meaning": "(v. & n.) To express happiness with your face",
+    "pronunciation": "smaɪl",
+    "example": "The baby smiled at her mother.",
+    "level": "beginner"
+  },
+  {
+    "word": "friend",
+    "meaning": "(n.) A person you like and enjoy spending time with",
+    "pronunciation": "frɛnd",
+    "example": "My best friend lives next door.",
+    "level": "beginner"
+  },
+  {
+    "word": "play",
+    "meaning": "(v.) To engage in activity for fun",
+    "pronunciation": "pleɪ",
+    "example": "The children play in the park every afternoon.",
+    "level": "beginner"
+  },
+  {
+    "word": "food",
+    "meaning": "(n.) Things that people and animals eat",
+    "pronunciation": "fuːd",
+    "example": "The food in this restaurant is delicious.",
+    "level": "beginner"
+  },
+  {
+    "word": "sleep",
+    "meaning": "(v.) To rest with your eyes closed",
+    "pronunciation": "sliːp",
+    "example": "Most people sleep for eight hours each night.",
+    "level": "beginner"
+  },
+  {
+    "word": "warm",
+    "meaning": "(adj.) Having or giving out a moderate degree of heat",
+    "pronunciation": "wɔːm",
+    "example": "The warm sun felt nice on her face.",
+    "level": "beginner"
+  },
+  {
+    "word": "clean",
+    "meaning": "(adj. & v.) Free from dirt; to make something free from dirt",
+    "pronunciation": "kliːn",
+    "example": "Please clean your room before dinner.",
+    "level": "beginner"
+  },
+  {
+    "word": "busy",
+    "meaning": "(adj.) Actively doing something; occupied",
+    "pronunciation": "ˈbɪzi",
+    "example": "She was too busy to answer the phone.",
+    "level": "beginner"
+  },
+  {
+    "word": "help",
+    "meaning": "(v.) To make it easier for someone to do something",
+    "pronunciation": "hɛlp",
+    "example": "Can you help me carry these bags?",
+    "level": "beginner"
+  },
+  {
+    "word": "kind",
+    "meaning": "(adj.) Friendly, generous, and considerate",
+    "pronunciation": "kaɪnd",
+    "example": "The kind neighbor brought us cookies.",
+    "level": "beginner"
+  },
+  {
+    "word": "learn",
+    "meaning": "(v.) To gain knowledge or skills",
+    "pronunciation": "lɜːn",
+    "example": "Students learn new things every day at school.",
+    "level": "beginner"
+  },
+  {
+    "word": "small",
+    "meaning": "(adj.) Not big; little in size",
+    "pronunciation": "smɔːl",
+    "example": "She lives in a small apartment.",
+    "level": "beginner"
+  },
+  {
+    "word": "young",
+    "meaning": "(adj.) In an early stage of life or growth",
+    "pronunciation": "jʌŋ",
+    "example": "The young puppy was full of energy.",
+    "level": "beginner"
+  },
+  {
+    "word": "read",
+    "meaning": "(v.) To look at and understand written words",
+    "pronunciation": "riːd",
+    "example": "She likes to read books before bedtime.",
+    "level": "beginner"
+  },
+  {
+    "word": "walk",
+    "meaning": "(v.) To move on foot",
+    "pronunciation": "wɔːk",
+    "example": "They walk to school every morning.",
+    "level": "beginner"
+  },
+  {
+    "word": "quick",
+    "meaning": "(adj.) Moving or doing things fast",
+    "pronunciation": "kwɪk",
+    "example": "He took a quick shower before work.",
+    "level": "beginner"
+  },
+  {
+    "word": "easy",
+    "meaning": "(adj.) Not difficult; simple to do",
+    "pronunciation": "ˈiːzi",
+    "example": "The test was very easy for her.",
+    "level": "beginner"
+  },
+  {
+    "word": "happy",
+    "meaning": "(adj.) Feeling or showing pleasure",
+    "pronunciation": "ˈhæpi",
+    "example": "The happy children played in the garden.",
+    "level": "beginner"
+  },
+  {
+    "word": "cold",
+    "meaning": "(adj.) Low in temperature",
+    "pronunciation": "kəʊld",
+    "example": "The cold wind made her shiver.",
+    "level": "beginner"
+  },
+  {
+    "word": "listen",
+    "meaning": "(v.) To pay attention to someone or something you can hear",
+    "pronunciation": "ˈlɪsən",
+    "example": "Please listen carefully to the instructions.",
+    "level": "beginner"
+  },
+  {
+    "word": "write",
+    "meaning": "(v.) To form letters or words on a surface",
+    "pronunciation": "raɪt",
+    "example": "She writes in her diary every night.",
+    "level": "beginner"
+  },
+  {
+    "word": "open",
+    "meaning": "(v. & adj.) To make something not closed; not closed",
+    "pronunciation": "ˈəʊpən",
+    "example": "Please open the window for fresh air.",
+    "level": "beginner"
+  },
+  {
+    "word": "close",
+    "meaning": "(v. & adj.) To make something not open; near",
+    "pronunciation": "kləʊz",
+    "example": "Don't forget to close the door.",
+    "level": "beginner"
+  },
+  {
+    "word": "quiet",
+    "meaning": "(adj.) Making little or no noise",
+    "pronunciation": "ˈkwaɪət",
+    "example": "The library must be quiet so people can study.",
+    "level": "beginner"
+  },
+  {
+    "word": "new",
+    "meaning": "(adj.) Not existing before; recently made",
+    "pronunciation": "njuː",
+    "example": "She bought a new car last week.",
+    "level": "beginner"
+  },
+  {
+    "word": "aberration",
+    "meaning": "(n.) A departure from what is normal or expected",
+    "pronunciation": "ˌæbəˈreɪʃən",
+    "example": "The sudden drop in temperature was an aberration for that time of year.",
+    "level": "advanced"
+  },
+  {
+    "word": "belligerent",
+    "meaning": "(adj.) Hostile and aggressive",
+    "pronunciation": "bəˈlɪdʒərənt",
+    "example": "The belligerent customer demanded to speak to the manager.",
+    "level": "advanced"
+  },
+  {
+    "word": "clandestine",
+    "meaning": "(adj.) Done in secret or kept hidden",
+    "pronunciation": "klænˈdɛstɪn",
+    "example": "They held clandestine meetings in the basement.",
+    "level": "advanced"
+  },
+  {
+    "word": "deft",
+    "meaning": "(adj.) Skillful and quick in movement",
+    "pronunciation": "dɛft",
+    "example": "The chef's deft hands quickly chopped the vegetables.",
+    "level": "intermediate"
+  },
+  {
+    "word": "ebullient",
+    "meaning": "(adj.) Cheerful and full of energy",
+    "pronunciation": "ɪˈbʌliənt",
+    "example": "The ebullient child bounced around the playground.",
+    "level": "advanced"
+  },
+  {
+    "word": "fastidious",
+    "meaning": "(adj.) Very attentive to detail; meticulous",
+    "pronunciation": "fæˈstɪdiəs",
+    "example": "The fastidious editor caught every small error.",
+    "level": "advanced"
+  },
+  {
+    "word": "garrulous",
+    "meaning": "(adj.) Excessively talkative",
+    "pronunciation": "ˈɡærʊləs",
+    "example": "The garrulous passenger talked throughout the entire flight.",
+    "level": "advanced"
+  },
+  {
+    "word": "haphazard",
+    "meaning": "(adj.) Random and lacking organization",
+    "pronunciation": "hæpˈhæzərd",
+    "example": "The books were arranged in a haphazard manner on the shelves.",
+    "level": "intermediate"
+  },
+  {
+    "word": "impetuous",
+    "meaning": "(adj.) Acting without thinking; hasty",
+    "pronunciation": "ɪmˈpɛtʃuəs",
+    "example": "His impetuous decision to quit his job caused problems later.",
+    "level": "advanced"
+  },
+  {
+    "word": "juxtapose",
+    "meaning": "(v.) To place things side by side for comparison",
+    "pronunciation": "ˈdʒʌkstəpəʊz",
+    "example": "The artist juxtaposed bright and dark colors in the painting.",
+    "level": "advanced"
+  },
+  {
+    "word": "keen",
+    "meaning": "(adj.) Sharp, eager, or intense",
+    "pronunciation": "kiːn",
+    "example": "She had a keen interest in marine biology.",
+    "level": "intermediate"
+  },
+  {
+    "word": "lackadaisical",
+    "meaning": "(adj.) Lacking enthusiasm and determination",
+    "pronunciation": "ˌlækəˈdeɪzɪkəl",
+    "example": "The lackadaisical student rarely completed homework on time.",
+    "level": "advanced"
+  },
+  {
+    "word": "melancholy",
+    "meaning": "(n.) A feeling of deep sadness",
+    "pronunciation": "ˈmɛlənkɒli",
+    "example": "A wave of melancholy swept over her as she packed her childhood home.",
+    "level": "intermediate"
+  },
+  {
+    "word": "nonchalant",
+    "meaning": "(adj.) Appearing calm and relaxed; unconcerned",
+    "pronunciation": "ˌnɒnʃəˈlɑːnt",
+    "example": "He remained nonchalant despite the pressure of the deadline.",
+    "level": "intermediate"
+  },
+  {
+    "word": "ostentatious",
+    "meaning": "(adj.) Showy and designed to impress",
+    "pronunciation": "ˌɒstɛnˈteɪʃəs",
+    "example": "The mansion's ostentatious decoration reflected the owner's wealth.",
+    "level": "advanced"
+  },
+  {
+    "word": "pedantic",
+    "meaning": "(adj.) Overly concerned with minor details",
+    "pronunciation": "pɪˈdæntɪk",
+    "example": "The pedantic professor corrected every small grammatical error.",
+    "level": "advanced"
+  },
+  {
+    "word": "quintessential",
+    "meaning": "(adj.) Representing the most perfect example",
+    "pronunciation": "ˌkwɪntɪˈsɛnʃəl",
+    "example": "The small café was the quintessential Parisian breakfast spot.",
+    "level": "advanced"
+  },
+  {
+    "word": "reticent",
+    "meaning": "(adj.) Not revealing one's thoughts or feelings readily",
+    "pronunciation": "ˈrɛtɪsənt",
+    "example": "The reticent witness was reluctant to share details.",
+    "level": "advanced"
+  },
+  {
+    "word": "surreptitious",
+    "meaning": "(adj.) Kept secret, especially for wrong reasons",
+    "pronunciation": "ˌsʌrəpˈtɪʃəs",
+    "example": "He took a surreptitious glance at his neighbor's test.",
+    "level": "advanced"
+  },
+  {
+    "word": "taciturn",
+    "meaning": "(adj.) Reserved or uncommunicative in speech",
+    "pronunciation": "ˈtæsɪtɜːn",
+    "example": "The taciturn farmer spoke only when necessary.",
+    "level": "advanced"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "(adj.) Present everywhere simultaneously",
+    "pronunciation": "juːˈbɪkwɪtəs",
+    "example": "Smartphones have become ubiquitous in modern life.",
+    "level": "advanced"
+  },
+  {
+    "word": "vacillate",
+    "meaning": "(v.) To waver between different opinions",
+    "pronunciation": "ˈvæsɪleɪt",
+    "example": "She continued to vacillate between the two job offers.",
+    "level": "advanced"
+  },
+  {
+    "word": "watershed",
+    "meaning": "(n.) A turning point in history or affairs",
+    "pronunciation": "ˈwɔːtəʃɛd",
+    "example": "The invention of the internet was a watershed moment in communication.",
+    "level": "advanced"
+  },
+  {
+    "word": "xenial",
+    "meaning": "(adj.) Hospitable, especially to strangers",
+    "pronunciation": "ˈziːniəl",
+    "example": "The xenial hosts made everyone feel welcome at the party.",
+    "level": "advanced"
+  },
+  {
+    "word": "yearn",
+    "meaning": "(v.) To have an intense longing for something",
+    "pronunciation": "jɜːn",
+    "example": "She yearned for her childhood home in the countryside.",
+    "level": "intermediate"
+  },
+  {
+    "word": "zeal",
+    "meaning": "(n.) Great energy or enthusiasm",
+    "pronunciation": "ziːl",
+    "example": "She approached her studies with tremendous zeal.",
+    "level": "intermediate"
+  },
+  {
+    "word": "ambivalent",
+    "meaning": "(adj.) Having mixed feelings about something",
+    "pronunciation": "æmˈbɪvələnt",
+    "example": "He felt ambivalent about changing jobs.",
+    "level": "advanced"
+  },
+  {
+    "word": "brevity",
+    "meaning": "(n.) Shortness of duration or expression",
+    "pronunciation": "ˈbrɛvɪti",
+    "example": "The speaker was praised for the brevity of his speech.",
+    "level": "advanced"
+  },
+  {
+    "word": "cognizant",
+    "meaning": "(adj.) Aware or informed of something",
+    "pronunciation": "ˈkɒɡnɪzənt",
+    "example": "She was cognizant of the risks involved in the experiment.",
+    "level": "advanced"
+  },
+  {
+    "word": "diligent",
+    "meaning": "(adj.) Careful and hardworking",
+    "pronunciation": "ˈdɪlɪdʒənt",
+    "example": "The diligent student reviewed her notes every evening.",
+    "level": "intermediate"
+  },
+  {
+    "word": "eloquent",
+    "meaning": "(adj.) Fluent and persuasive in speaking",
+    "pronunciation": "ˈɛləkwənt",
+    "example": "His eloquent defense convinced the jury.",
+    "level": "intermediate"
+  },
+  {
+    "word": "fervid",
+    "meaning": "(adj.) Intensely enthusiastic or passionate",
+    "pronunciation": "ˈfɜːvɪd",
+    "example": "The fervid sports fans cheered throughout the game.",
+    "level": "advanced"
+  },
+  {
+    "word": "gallant",
+    "meaning": "(adj.) Brave and heroic",
+    "pronunciation": "ˈɡælənt",
+    "example": "The gallant firefighter rescued the child from the burning building.",
+    "level": "intermediate"
+  },
+  {
+    "word": "harbinger",
+    "meaning": "(n.) Something that signals what is to come",
+    "pronunciation": "ˈhɑːbɪndʒər",
+    "example": "The dark clouds were a harbinger of the approaching storm.",
+    "level": "advanced"
+  },
+  {
+    "word": "indigenous",
+    "meaning": "(adj.) Naturally occurring in a place",
+    "pronunciation": "ɪnˈdɪdʒɪnəs",
+    "example": "These plants are indigenous to the Amazon rainforest.",
+    "level": "advanced"
+  },
+  {
+    "word": "jubilant",
+    "meaning": "(adj.) Feeling or expressing great happiness",
+    "pronunciation": "ˈdʒuːbɪlənt",
+    "example": "The jubilant team celebrated their victory.",
+    "level": "intermediate"
+  },
+  {
+    "word": "kinetic",
+    "meaning": "(adj.) Relating to or caused by motion",
+    "pronunciation": "kɪˈnɛtɪk",
+    "example": "The kinetic sculpture moved with the wind.",
+    "level": "advanced"
+  },
+  {
+    "word": "lethargic",
+    "meaning": "(adj.) Lacking energy; sluggish",
+    "pronunciation": "ləˈθɑːdʒɪk",
+    "example": "The hot weather made everyone feel lethargic.",
+    "level": "intermediate"
+  },
+  {
+    "word": "magnanimous",
+    "meaning": "(adj.) Very generous and forgiving",
+    "pronunciation": "mæɡˈnænɪməs",
+    "example": "The magnanimous winner shared his prize with the runner-up.",
+    "level": "advanced"
+  },
+  {
+    "word": "nefarious",
+    "meaning": "(adj.) Wicked or criminal",
+    "pronunciation": "nɪˈfɛəriəs",
+    "example": "The detective uncovered their nefarious plot.",
+    "level": "advanced"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "(adj.) No longer in use or out of date",
+    "pronunciation": "ˈɒbsəliːt",
+    "example": "The old computer system had become obsolete.",
+    "level": "intermediate"
+  },
+  {
+    "word": "penchant",
+    "meaning": "(n.) A strong liking for something",
+    "pronunciation": "ˈpɛntʃənt",
+    "example": "She had a penchant for chocolate desserts.",
+    "level": "advanced"
+  },
+  {
+    "word": "quandary",
+    "meaning": "(n.) A state of uncertainty or confusion",
+    "pronunciation": "ˈkwɒndəri",
+    "example": "He was in a quandary about which job offer to accept.",
+    "level": "advanced"
+  },
+  {
+    "word": "resilient",
+    "meaning": "(adj.) Able to recover quickly from difficulties",
+    "pronunciation": "rɪˈzɪliənt",
+    "example": "The resilient city quickly rebuilt after the earthquake.",
+    "level": "intermediate"
+  },
+  {
+    "word": "sage",
+    "meaning": "(n.) A person of great wisdom",
+    "pronunciation": "seɪdʒ",
+    "example": "The old sage offered valuable advice to the young leader.",
+    "level": "intermediate"
+  },
+  {
+    "word": "tenacious",
+    "meaning": "(adj.) Holding firmly to something",
+    "pronunciation": "təˈneɪʃəs",
+    "example": "The tenacious climber never gave up on reaching the summit.",
+    "level": "advanced"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "(adj.) Present everywhere",
+    "pronunciation": "juːˈbɪkwɪtəs",
+    "example": "Coffee shops have become ubiquitous in cities.",
+    "level": "advanced"
+  },
+  {
+    "word": "verdant",
+    "meaning": "(adj.) Green with vegetation",
+    "pronunciation": "ˈvɜːdənt",
+    "example": "The verdant valley was full of lush plants.",
+    "level": "advanced"
+  },
+  {
+    "word": "wary",
+    "meaning": "(adj.) Cautious about possible dangers",
+    "pronunciation": "ˈwɛəri",
+    "example": "The wary cat approached the unfamiliar dog slowly.",
+    "level": "intermediate"
+  },
+  {
+    "word": "xeric",
+    "meaning": "(adj.) Very dry; requiring little water",
+    "pronunciation": "ˈzɪərɪk",
+    "example": "Cacti are adapted to xeric conditions in the desert.",
+    "level": "advanced"
+  },
+  {
+    "word": "abacus",
+    "meaning": "(n.) A calculating device with beads or counters",
+    "pronunciation": "ˈæbəkəs",
+    "example": "The teacher taught basic arithmetic using an abacus.",
+    "level": "intermediate"
+  },
+  {
+    "word": "benign",
+    "meaning": "(adj.) Gentle and kind; not harmful",
+    "pronunciation": "bɪˈnaɪn",
+    "example": "The benign tumor was not dangerous to the patient's health.",
+    "level": "advanced"
+  },
+  {
+    "word": "cacophony",
+    "meaning": "(n.) A harsh mixture of sounds",
+    "pronunciation": "kəˈkɒfəni",
+    "example": "The cacophony of city traffic made it hard to concentrate.",
+    "level": "advanced"
+  },
+  {
+    "word": "dexterity",
+    "meaning": "(n.) Skill in performing tasks with the hands",
+    "pronunciation": "dɛkˈstɛrɪti",
+    "example": "The surgeon's dexterity was impressive during the operation.",
+    "level": "advanced"
+  },
+  {
+    "word": "ephemeral",
+    "meaning": "(adj.) Lasting for a very short time",
+    "pronunciation": "ɪˈfɛmərəl",
+    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few days.",
+    "level": "advanced"
+  },
+  {
+    "word": "facade",
+    "meaning": "(n.) The front of a building; a deceptive appearance",
+    "pronunciation": "fəˈsɑːd",
+    "example": "Behind the elegant facade, the building was in need of repair.",
+    "level": "intermediate"
+  },
+  {
+    "word": "gregarious",
+    "meaning": "(adj.) Fond of company; sociable",
+    "pronunciation": "ɡrɪˈɡɛəriəs",
+    "example": "Her gregarious nature made her the life of every party.",
+    "level": "advanced"
+  },
+  {
+    "word": "harmony",
+    "meaning": "(n.) Agreement or peaceful coexistence",
+    "pronunciation": "ˈhɑːməni",
+    "example": "The different communities lived together in perfect harmony.",
+    "level": "intermediate"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "(v.) To light up; to explain clearly",
+    "pronunciation": "ɪˈluːmɪneɪt",
+    "example": "The professor's explanation helped to illuminate the complex concept.",
+    "level": "intermediate"
+  },
+  {
+    "word": "jovial",
+    "meaning": "(adj.) Cheerful and friendly",
+    "pronunciation": "ˈdʒəʊviəl",
+    "example": "The jovial host made everyone feel welcome at the party.",
+    "level": "intermediate"
+  },
+  {
+    "word": "kindle",
+    "meaning": "(v.) To start a fire; to inspire",
+    "pronunciation": "ˈkɪndl",
+    "example": "The teacher's passion helped to kindle students' interest in science.",
+    "level": "intermediate"
+  },
+  {
+    "word": "lucid",
+    "meaning": "(adj.) Clear and easy to understand",
+    "pronunciation": "ˈluːsɪd",
+    "example": "Her lucid explanation made the complex theory accessible to everyone.",
+    "level": "advanced"
+  },
+  {
+    "word": "meander",
+    "meaning": "(v.) To follow a winding course",
+    "pronunciation": "miˈændər",
+    "example": "The river meandered through the peaceful valley.",
+    "level": "intermediate"
+  },
+  {
+    "word": "novice",
+    "meaning": "(n.) A beginner or newcomer",
+    "pronunciation": "ˈnɒvɪs",
+    "example": "As a novice cook, she started with simple recipes.",
+    "level": "intermediate"
+  },
+  {
+    "word": "opulent",
+    "meaning": "(adj.) Luxurious and wealthy",
+    "pronunciation": "ˈɒpjʊlənt",
+    "example": "The opulent palace was decorated with gold and precious stones.",
+    "level": "advanced"
+  },
+  {
+    "word": "placid",
+    "meaning": "(adj.) Calm and peaceful",
+    "pronunciation": "ˈplæsɪd",
+    "example": "The placid lake surface reflected the mountains like a mirror.",
+    "level": "intermediate"
+  },
+  {
+    "word": "quench",
+    "meaning": "(v.) To satisfy thirst; to extinguish",
+    "pronunciation": "kwɛntʃ",
+    "example": "The cold water helped quench his thirst after the long run.",
+    "level": "intermediate"
+  },
+  {
+    "word": "robust",
+    "meaning": "(adj.) Strong and healthy",
+    "pronunciation": "rəʊˈbʌst",
+    "example": "The robust economy continued to grow despite global challenges.",
+    "level": "intermediate"
+  },
+  {
+    "word": "serene",
+    "meaning": "(adj.) Calm, peaceful, and untroubled",
+    "pronunciation": "səˈriːn",
+    "example": "The serene mountain landscape brought peace to her mind.",
+    "level": "intermediate"
+  },
+  {
+    "word": "tranquil",
+    "meaning": "(adj.) Peaceful and quiet",
+    "pronunciation": "ˈtræŋkwɪl",
+    "example": "The tranquil garden was perfect for meditation.",
+    "level": "intermediate"
+  },
+  {
+    "word": "umbrella",
+    "meaning": "(n.) A device that protects against rain",
+    "pronunciation": "ʌmˈbrɛlə",
+    "example": "He opened his umbrella as the rain began to fall.",
+    "level": "beginner"
+  },
+  {
+    "word": "vivid",
+    "meaning": "(adj.) Bright, intense, and clear",
+    "pronunciation": "ˈvɪvɪd",
+    "example": "She had vivid memories of her childhood summers.",
+    "level": "intermediate"
+  },
+  {
+    "word": "whisper",
+    "meaning": "(v.) To speak very softly",
+    "pronunciation": "ˈwɪspər",
+    "example": "The children whispered secrets during class.",
+    "level": "beginner"
+  },
+  {
+    "word": "xenial",
+    "meaning": "(adj.) Hospitable, especially to strangers",
+    "pronunciation": "ˈziːniəl",
+    "example": "The xenial hosts made all their guests feel at home.",
+    "level": "advanced"
+  },
+  {
+    "word": "yield",
+    "meaning": "(v.) To give way; to produce",
+    "pronunciation": "jiːld",
+    "example": "The farm yielded an excellent crop that year.",
+    "level": "intermediate"
+  },
+  {
+    "word": "whimsical",
+    "meaning": "(adj.) Playfully quaint or fanciful",
+    "pronunciation": "ˈwɪmzɪkəl",
+    "example": "The whimsical decorations turned the garden into a fairy wonderland.",
+    "level": "intermediate"
+  },
+  {
+    "word": "zealous",
+    "meaning": "(adj.) Filled with enthusiasm and diligence",
+    "pronunciation": "ˈzɛləs",
+    "example": "The zealous fan collected every album the band had ever released.",
+    "level": "intermediate"
+  },
+  {
+    "word": "voracious",
+    "meaning": "(adj.) Having a huge appetite; very eager",
+    "pronunciation": "vɔːˈreɪʃəs",
+    "example": "She was a voracious reader who finished a book every day.",
+    "level": "advanced"
+  },
+  {
+    "word": "taciturn",
+    "meaning": "(adj.) Reserved or uncommunicative in speech",
+    "pronunciation": "ˈtæsɪtɜːrn",
+    "example": "The taciturn farmer rarely spoke more than a few words.",
+    "level": "advanced"
+  },
+  {
+    "word": "serenity",
+    "meaning": "(n.) The state of being calm and peaceful",
+    "pronunciation": "səˈrɛnɪti",
+    "example": "The mountain retreat offered perfect serenity away from city life.",
+    "level": "intermediate"
+  },
+  {
+    "word": "resilience",
+    "meaning": "(n.) The ability to recover quickly from difficulties",
+    "pronunciation": "rɪˈzɪliəns",
+    "example": "Her resilience helped her overcome many challenges in life.",
+    "level": "intermediate"
+  },
+  {
+    "word": "quixotic",
+    "meaning": "(adj.) Exceedingly idealistic; unrealistic",
+    "pronunciation": "kwɪkˈsɒtɪk",
+    "example": "His quixotic plan to solve world hunger in a year was admirable but unrealistic.",
+    "level": "advanced"
+  },
+  {
+    "word": "pulchritudinous",
+    "meaning": "(adj.) Physically beautiful",
+    "pronunciation": "pʌlˌkrɪˈtjuːdɪnəs",
+    "example": "The actress was known for her pulchritudinous appearance.",
+    "level": "advanced"
+  },
+  {
+    "word": "obfuscate",
+    "meaning": "(v.) To make something unclear or difficult to understand",
+    "pronunciation": "ˈɒbfʌskeɪt",
+    "example": "The politician tried to obfuscate the truth during the interview.",
+    "level": "advanced"
+  },
+  {
+    "word": "nadir",
+    "meaning": "(n.) The lowest point in a person's fortunes",
+    "pronunciation": "ˈneɪdɪər",
+    "example": "The bankruptcy was the nadir of his business career.",
+    "level": "advanced"
+  },
+  {
+    "word": "mellifluous",
+    "meaning": "(adj.) Sweet or musical; pleasant to hear",
+    "pronunciation": "mɪˈlɪflʊəs",
+    "example": "The singer's mellifluous voice captivated the audience.",
+    "level": "advanced"
+  },
+  {
+    "word": "luminary",
+    "meaning": "(n.) A person who inspires or influences others",
+    "pronunciation": "ˈluːmɪnəri",
+    "example": "The scientist was a luminary in the field of physics.",
+    "level": "advanced"
+  },
+  {
+    "word": "kaleidoscope",
+    "meaning": "(n.) A constantly changing pattern or sequence of elements",
+    "pronunciation": "kəˈlaɪdəskəʊp",
+    "example": "The city was a kaleidoscope of colors and sounds.",
+    "level": "advanced"
+  },
+  {
+    "word": "juxtaposition",
+    "meaning": "(n.) The act of placing things side by side for comparison",
+    "pronunciation": "ˌdʒʌkstəpəˈzɪʃən",
+    "example": "The juxtaposition of the two paintings highlighted their differences.",
+    "level": "advanced"
+  },
+  {
+    "word": "indefatigable",
+    "meaning": "(adj.) Incapable of being tired out; tireless",
+    "pronunciation": "ˌɪndɪˈfætɪɡəbl",
+    "example": "The indefatigable athlete trained for hours every day.",
+    "level": "advanced"
+  },
+  {
+    "word": "garrulous",
+    "meaning": "(adj.) Excessively talkative, especially on trivial matters",
+    "pronunciation": "ˈɡærʊləs",
+    "example": "The garrulous old man told stories for hours.",
+    "level": "advanced"
+  }
+]
