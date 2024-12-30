@@ -1,6 +1,7 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const User = require('../models/user');
+const UserWord = require('../models/words/user-words');
 
 // Register new user
 const register = async (req, res) => {
@@ -25,6 +26,14 @@ const register = async (req, res) => {
         });
 
         await user.save();
+
+        const userWords = new UserWord({
+            uid: user._id,
+            seenWords: [],
+            favoriteWords: []
+        });
+
+        await userWords.save();
 
         // Generate JWT token
         const token = jwt.sign(

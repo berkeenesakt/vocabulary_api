@@ -24,6 +24,4 @@ const getRandomWord = async (req, res) => {
     }
 };
 
-module.exports = {
-    getRandomWord
-};
+module.exports = getRandomWord;

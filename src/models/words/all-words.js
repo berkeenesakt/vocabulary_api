@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
+const { ObjectId } = mongoose.Schema.Types;
 
 const wordSchema = new mongoose.Schema({
-    id: String,
+    _id: ObjectId,
     word: String,
     pronunciation: String,
     meaning: String,
