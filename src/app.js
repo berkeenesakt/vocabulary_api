@@ -4,7 +4,6 @@
 const express = require('express');
 const app = express();
 const routes = require('./routes/index');
-const middleware = require('./middleware/index');
 const connectDB = require('./config/database');
 
 // Middleware setup
